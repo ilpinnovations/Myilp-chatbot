@@ -1,0 +1,53 @@
+{
+	"query": [
+
+		{
+			"Leave types": "Sick, Casual and Earned",
+			"Avail Leave": "Flexi leave not avail for ILP trainees",
+			"Apply for leave": "Need to get the approval from the tech and Biz Faculty. Once they approve, the Facilitation Team will check if the leave can be approved from HR. Upon the confirmation leave will be approved. Once the leave is approved the associate needs to apply for leave in Ultimatix and submit the leave request form.",
+			"Emergency Leave": "Personal Emergency leave (when you fall sick) and family emergency.",
+			"Contact for Leave": "Respective Faculties and the HR",
+			"Schedule Acess Link": "SCHEDULE URL : http://intvmsm01/schedule ",
+			"Nearest Hospital": "TSE, Ojas, AJ & KIMS, CSI Mission Hospital",
+			"Doctor Avail time at ILP center": "PP - 1.00 PM to 2.00 PM and CLC - 2.00 PM to 3.00 PM",
+			"Deduct money from salary":"Company will provide Rs. 6000/yr as domisciliary expense for a single person . They deduct  Rs.900/month in 8 instalments, ( for parents and inlaws)For self , spouse and kids will be paid by the corporate money from our salary . Coverage amount: Rs 6000 /year for domiciliary expenses , Rs 2 Lakhs as sum insured for Hospitalization and 12 Lakhs as a family floater (also for hospitalization) .",
+			"Raise a claim": "To  raise a claim  goto Ultimatix->Global ESS-> Health and Wellness->TCS Health insurance portal",
+			"Reimbursement Time": "For  reimbursement It will take Six to Seven working days after the settlement process is completed, to get the reimbursement.",
+			"Adding family members to HIS scheme": "For TCS, the health and wellbeing of all employees and their family is paramount.  Hence, TCS provides them with easy access to best-in-class medical facilities through a comprehensive Health Insurance Scheme.  Family in this context implies spouse, children, parents and parents-in-law only.",
+			"Documents required": "All the Original bills have to be submitted along with the claim form .  All the  bills&documents should be submitted within 90 days of Discharge ",
+			"Release Formalities": "One must complete all the mandatory trainings and feedback. if there is no access to the Mandatory trainings, Required to raise a ticket in Ultimatix (under Global help desk) to fix the issue.",
+			"add beneficiaries": "Link for adding new beneficiaries Ultimatix ->Global ESS->Health & Insurance .   Follow this link for more details : Ultimatix -> Learning & Collaboration->KNOWMAX ->My HR->India->Health Safety & Wellness->Health & Insurance .",
+			"Baselocation Change": "Associates are mapped to business needs and promises given to our clients cannot not changed due to our TCS values",
+			"Stream Change": "It will be difficult as you have already completed the the tech lounge.",
+			"Rules": "Taking photos is not allowed in office ( only in front of Gym) ",
+			"ILP Dress Code": "ILP DRESS CODE LINK :https://knowmax.ultimatix.net/sites/myhr1-cop/GlobalNewDress%20Code/TCS%20Global%20Guideline%20-%20Dress%20Code.pdf ",
+			"LAP duration": "Associates will start with BizSkill LAP first, then will continue with PD if the trainee clears the Biz, else will go for HR action. LAP Duration CS LAP – 10 days, PD LAP– 10 days, Biz Skill LAP– 20 days ",
+			"Leave during LAP":"Associate are not able to take  leave during LAP .",
+			"Emergency leave during LAP":"Can take Emergency leave during LAP but LAP date will be extended. ",
+			"stakeholders": " Contact HR – Paul.f@tcs.com , RMG- vijay.kc@tcs.com ,Facilitation team - Trivandrum.Facilitation@tcs.com for more details ",
+			"Stay back at lab": "Inform the faculty and provide the list of associates to get the permission",
+			"get permission to go out": "Get the approval from Faculty then from the Facilitation team",
+			"system is not working": "Contact IS Team for more details",
+			"stream change": "Facilitation Team",
+			"Allocation": "Contact RMG (Bijo/Vijay/Manushree) for more details",
+			"Washroom": "Contact Admin (Shaju/Deepthi RP) for more details",
+			"Canteen":"Contact Admin (Shaju/Deepthi RP) for more details",
+			"Transport":"Contact Admin (Shaju/Deepthi RP) for more details",
+			"Accommodation": "Contact Admin (Shaju/Deepthi RP) for more details",
+			"Ultimatix": "Contact HR (Paul F/Sinu B) for more details",
+			"Access": "Contact BMS team (Near PP Reception) for more details",
+			"Gdrive": "Contact IS Team for more details",
+			"intranet": "Contact HR  for more details",
+			"ievolve": "Contact Digitization team for more details",
+			"print out": "Contact HR for more details",
+			"Loss of ID card": "Contact BMS team (Near PP Reception) for more details",
+			"Lost and found items": "Contact Admin (Shaju/Deepthi RP) for more details",
+			"AC": "Contact  Reception for more details",
+			"Health and Environmental risk": "Contact HSE (Anjus Nair/Unnikrishnan) for more details"
+
+
+
+
+		}
+	]
+}
